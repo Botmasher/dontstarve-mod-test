@@ -1,7 +1,7 @@
-name = "You Cook Twigs Now"
-version = "1.0"
+name = "Gnaw on Wood" -- formerly "You Cook Twigs Now"
+version = "0.2 alpha"
 author = "Botmasher (Josh)"
-description = [[Twigs can now be cooked in the crockpot!
+description = [[Logs and twigs can now be eaten and cooked like fruit!
 This is my first test mod.]]
  
 --this would be the address on the Klei forums
@@ -9,7 +9,7 @@ forumthread = "/files/file/"
  
 --the following is not required, but useful for other
 --mods that try to check whether our mod is enabled
-id = "CookTwigs01"
+id = "GnawWood01"
  
  -- options to offer the user in settings
 -- can access through modmain.lua using GetModConfigData("optionname")
